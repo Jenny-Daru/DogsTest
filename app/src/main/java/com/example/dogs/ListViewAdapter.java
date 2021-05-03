@@ -12,6 +12,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class ListViewAdapter extends BaseAdapter {
+//   테스트 테스트 테스트
 
     private ArrayList<ListViewItem> listViewItemList = new ArrayList<ListViewItem>();
 
